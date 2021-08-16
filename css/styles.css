@@ -1,0 +1,82 @@
+.tela {
+    margin: 10px auto;
+    width: 400px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 0px grey;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titulo {
+    font-size: 30px;
+    text-align: center;
+}
+
+.subtitulo {
+    font-size: 24px;
+    text-align: center;
+    color: rgb(116, 116, 116);
+}
+
+.btn-sorteio {
+    height: 50px;
+    width: 150px;
+    margin-top: 100px !important;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: rgb(255, 57, 57);
+}
+
+.btn-sorteio:hover {
+    opacity: 0.8;
+}
+
+.sorteado {
+    margin-top: 100px;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 10px 20px;
+    color: white;
+    width: 250px;
+}
+
+marquee {
+    font-size: 20px;
+}
+
+#m1 {
+    color: hotpink;
+    margin: 0 auto 0;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+#m2 {
+    color: blue;
+    display: block;
+    margin: 0 auto 0;
+    text-align: center;
+}
+
+#m3 {
+    margin: 30px 0;
+    color: yellow;
+    background-color: black;
+}
+
+#m4 {
+    color: black;
+    background-color: chocolate;
+}
+
+#m5 {
+    margin: 30px auto;
+    background-color: cornflowerblue;
+    color: black
+}
