@@ -1,5 +1,5 @@
 # Draw Tool
-A small utility developed to randomly select names — as needed within the company.
+A small JavaScript utility developed to randomly select names — as needed within the company.
 
 ## Features
 - Randomly selects an item from a list.
